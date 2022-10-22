@@ -4,4 +4,4 @@ Play around with creating well abstracted, repeatable components. Open design to
 
 # TO RESEARCH
 
-GitHub Api - The project will be hosted separately however, I want to display my Github "data" and
+GitHub Api - The project will be hosted separately however, I want to display my Github "data" and favorite projects.
